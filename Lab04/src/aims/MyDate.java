@@ -67,8 +67,31 @@ public class MyDate {
 		monthStr = monthArr[this.month];
 		yearStr = String.valueOf(this.year);
 		
-		System.out.println(monthStr + dayStr + yearStr);
+		System.out.println(monthStr + " " + dayStr + " " + yearStr);
 		
+	}
+
+	public String print(String format) {
+		String output = new String();
+		switch (format) {
+			case "yyyy-mm-dd": {
+				output = String.format("%d-%d-%d", year, month, day);
+				System.out.println(output);
+				break;
+			}
+
+			case "dd-mm-yyyy": {
+				output = String.format("%d-%d-%d", day, month, year);
+				break;
+			}
+
+			default:
+			{
+				System.out.println("format not valid");
+				return null;
+			}
+		}
+		return output;
 	}
 	
 	
