@@ -44,7 +44,11 @@ public class MyDate {
 		String dayStr;
 		String monthStr;
 		String yearStr;
-		
+
+		if(this.day == 0) {
+			return;
+		}
+
 		switch (this.day) {
 		case 1: {
 			dayStr = "1st";
@@ -64,7 +68,7 @@ public class MyDate {
 		
 		String[] monthArr = { "January", "February", "March", "April", "May", "June", "July", "August", "September",
 				"October", "November", "December" };
-		monthStr = monthArr[this.month];
+		monthStr = monthArr[this.month- 1];
 		yearStr = String.valueOf(this.year);
 		
 		System.out.println(monthStr + " " + dayStr + " " + yearStr);
