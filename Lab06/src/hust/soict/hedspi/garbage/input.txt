@@ -1,0 +1,66 @@
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+                System.out.println(str);
+
+                System.out.println(str);
+
+                System.out.println(str);
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
+Các ví dụ trên không sử dụng Buffered Streams, điều này có nghĩa là việc đọc và xuất dữ liệu được thực hiện trực tiếp
+dưới quyền điều khiển của hệ điều hành, gây lãng phí thời gian và tài nguyên. Để giảm thiểu những trên, Buffered Streams đã được sinh ra. Buffered Streams được sử dụng để tăng tốc độ hoạt động I/O,
+ bằng cách đơn giản là tạo ra một khoảng nhớ đệm với kích thước cụ thể nào đó.
+Vì vậy chúng ta không cần phải truy cập vào ổ đĩa cứng khi thực hiện I/O.
+Một chương trình có thể chuyển đổi từ không sử dụng buffered stream (Byte Stream và Chracter Stream sang sử dụng buffered stream bằng việc sử dụng ý tưởng "Wrapping"
